@@ -20,6 +20,6 @@ function App() {
       </header>
     </div>
   );
-}
+}2
 
 export default App;
