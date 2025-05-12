@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -20,6 +20,6 @@ function App() {
       </header>
     </div>
   );
-}2
+}
 
 export default App;
